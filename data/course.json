@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "555a0137-1a2d-7d0a-8274-1e6be0112025"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Optimization Methods",
+  "course_description": "This course introduces the principal algorithms for linear, network, discrete, nonlinear, dynamic optimization and optimal control. Emphasis is on methodology and the underlying mathematical structures. Topics include the simplex method, network flow methods, branch and bound and cutting plane methods for discrete optimization, optimality conditions for nonlinear optimization, interior point methods for convex optimization, Newton's method, heuristic methods, and dynamic programming and optimal control methods.\n",
+  "department_numbers": [
+    "15",
+    "6"
+  ],
+  "extra_course_numbers": "6.255J",
+  "primary_course_number": "15.093J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
